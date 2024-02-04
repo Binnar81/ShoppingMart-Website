@@ -36,9 +36,9 @@
 
 .nav-links {
     font-size: 1.8rem;
-    text-transform: uppercase;
     display: flex;
     gap: 2.5rem;
+    text-wrap: nowrap;
 }
 
 .nav-links a {
@@ -96,7 +96,6 @@
 
 .mobile-links {
     font-size: 3rem;
-    text-transform: uppercase;
     display: flex;
     flex-direction: column;
     gap: 2rem;
@@ -106,6 +105,7 @@
     left: 50%;
     position: absolute;
     transform: translate(-50%, -50%);
+    text-wrap: nowrap;
 
 }
 
@@ -245,6 +245,7 @@
     justify-content: space-between;
     padding: 1.5rem;
 }
+
 
 .cart-btns {
     display: flex;

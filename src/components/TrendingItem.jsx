@@ -17,7 +17,7 @@ function TrendingItem() {
             </div>
             <div className="item-description">
               <p>{item.description}</p>
-              <p className="item-price">{item.price}$</p>
+              <p className="item-price">{item.price}Rs</p>
             </div>
           </Link>
         </div>

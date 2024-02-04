@@ -20,7 +20,7 @@ function Home() {
       />
       <TrendingSlider />
       <BannerReverse
-        title="Comfortable & Elegante Living"
+        title="Comfortable & Peaceful Living"
         text=" This Products are all made to standard sizes so that you can mix and match them freely."
         img={Banner2}
       />

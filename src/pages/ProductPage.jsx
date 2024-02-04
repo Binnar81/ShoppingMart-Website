@@ -87,7 +87,7 @@ function ProductPage() {
                   <p className="quantity">{quantity}</p>
                   <button onClick={increase}>+</button>
                 </div>
-                <p className="product-price">{calcPrice(quantity)}.00$</p>
+                <p className="product-price">{calcPrice(quantity)}.00Rs</p>
               </div>
               <div className="atc-buy">
                 <button

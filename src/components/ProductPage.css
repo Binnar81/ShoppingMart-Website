@@ -13,8 +13,8 @@
 .product-big-name {
     position: absolute;
     font-size: 3.5rem;
+    left:70%;
     top: 8px;
-    left: 50%;
     transform: translate(-50%);
 }
 
