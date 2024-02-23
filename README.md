@@ -10,7 +10,7 @@
   
   
 ### Running Demo of ShoppingMart Website Project:
-[Link to Video](https://github.com/Binnar81/ShoppingMart-Website/blob/ad8ad6f3e6def9fce5128784ffe0c0bec9f7616d/public/ShoppingMartWebsiteDemo.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJe8_FUi2yE?si=EYtXKZ9xcaI-0NLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Explore the Website:
