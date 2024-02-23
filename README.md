@@ -1,4 +1,4 @@
-# CryptoMudra Website
+# ShoppingMart Website
 
 #### This is Crypto Currency Website and using this website user can get the access to all the data(like crypto currency market price in Indian Rupees, crypto currency Market Capitalization in Indian Rupees, change in the percentage of market price and market capitalization) related to different Crypto Currencies 
 
@@ -9,12 +9,11 @@
 * JavaScript
   
   
-### Running Demo of CryptoMudra Website Project:
-https://github.com/Binnar81/ShoppingMart-Website/blob/main/public/cryptoMudraWebsiteDemo.mp4
+### Running Demo of ShoppingMart Website Project:
+https://github.com/Binnar81/ShoppingMart-Website/blob/main/public/ShoppingMartWebsiteDemo
 
 ## Explore the Website:
-
-https://crypto-mudra-website.vercel.app/
+https://shoppingmartwebsite.vercel.app/
 
 ## Project Installation Guidelines:
 
