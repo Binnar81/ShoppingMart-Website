@@ -10,7 +10,7 @@
   
   
 ### Running Demo of ShoppingMart Website Project:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJe8_FUi2yE?si=EYtXKZ9xcaI-0NLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Video Link](https://youtu.be/fJe8_FUi2yE?si=uWNr4Tl2j8pKt3WY)
 
 
 ## Explore the Website:
