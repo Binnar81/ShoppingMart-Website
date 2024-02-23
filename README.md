@@ -1,16 +1,17 @@
 # ShoppingMart Website
 
-#### This is Crypto Currency Website and using this website user can get the access to all the data(like crypto currency market price in Indian Rupees, crypto currency Market Capitalization in Indian Rupees, change in the percentage of market price and market capitalization) related to different Crypto Currencies 
+#### This Online Shopping website and using this website users can buy their favourite products. 
 
 ## Technologies Used:
 
 * React.js
-* SCSS
+* Vanilla CSS
 * JavaScript
   
   
 ### Running Demo of ShoppingMart Website Project:
-https://github.com/Binnar81/ShoppingMart-Website/blob/main/public/ShoppingMartWebsiteDemo
+[Link to Video](https://github.com/Binnar81/ShoppingMart-Website/blob/ad8ad6f3e6def9fce5128784ffe0c0bec9f7616d/public/ShoppingMartWebsiteDemo.mp4)
+
 
 ## Explore the Website:
 https://shoppingmartwebsite.vercel.app/
